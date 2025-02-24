@@ -7,7 +7,7 @@
 
 ![](left_panel_top.png)
 ![](left_panel_bot.png)
-
-#Schematic
+![](touch_gif.gif)
+# Schematic
 ![](left_panel_SCH.png)
 
